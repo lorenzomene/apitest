@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Breaking Bad",
+        "phrase": "Say my name"
+    },
+    {
+        "id": 2,
+        "name": "Narcos",
+        "phrase": "Plata o plomo"
+    },
+    {
+        "id": 3,
+        "name": "Peaky Blinders",
+        "phrase": "Peaky fookin' Blinders"
+    },
+    {
+        "id": 4,
+        "name": "Game of Thrones",
+        "phrase": "Power is power"
+    },
+    {
+        "id": 5,
+        "name": "Rick and Morty",
+        "phrase": "Wubba lubba dub dub"
+    },
+    {
+        "id": 6,
+        "name": "Bojack Horseman",
+        "phrase": "That's the problem with life, right?"
+    }
+]
